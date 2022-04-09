@@ -1,0 +1,14 @@
+{
+  "name": "miprimerserver",
+  "version": "1.0.0",
+  "description": "tarea",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node ./app.js"
+  },
+  "author": "Daniela",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
